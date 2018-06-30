@@ -1,0 +1,64 @@
+
+/*当前位置文字样式*/
+.hse_investplan_currentposition_p{
+  margin-left: 42px;
+  padding: 10px 0;
+  color: #666;
+  font:12px "宋体";
+}
+/*查询条件与查询结果的div的左右边距*/
+.hse_investplan_widemagin_div{
+  margin: 0 20px;
+  background: #f5f6f8;
+  border-radius: 6px;
+  padding:10px 20px;
+}
+/*查询条件,查询结果文字样式*/
+.hse_searchcondition_search_p{
+  color:#4d4d4d;
+  font:bold 16px "宋体";
+  border-left:3px solid #3c5a81;
+  padding-left:5px;
+}
+/*查询条件框外框的样式设置*/
+.hse_searchcondition_content_div{
+  border: 1px solid #d6d6d6;
+  border-radius: 6px;
+  margin:20px 0;
+  background: #fefefe;
+}
+/*查询条件的行样式*/
+.hse_searchcondition_option_elrow{
+  margin-top: 20px;
+}
+.hse_searchcondition_caption_toright{
+  text-align: right;
+  line-height: 32px;
+}
+/*查询按钮样式*/
+.hse_searchcodition_el_button{
+  margin:10px auto 20px;
+  display:block;
+}
+/*包裹行政区域下拉选择框的div样式*/
+.hse_searchcodition_xzboxdown_div{
+  position:absolute;
+  z-index: 3000;
+  width:280px;
+  top:35px;
+  background:#fff;
+}
+/*包括行政下拉框选择项的div*/
+.hse_searchcodition_xzboxoption_div{
+  overflow:auto;
+  max-height:300px;
+}
+.hse_result_capition_p{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  color: #666;
+  font:16px bold;
+}
+
+
